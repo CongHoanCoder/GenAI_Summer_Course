@@ -52,7 +52,7 @@ To run the script, ensure you have:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   https://github.com/CongHoanCoder/GenAI_Summer_Course/tree/main/01_HW1
    cd your-repository
    ```
 
