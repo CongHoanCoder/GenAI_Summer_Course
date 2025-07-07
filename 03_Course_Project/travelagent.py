@@ -143,8 +143,8 @@ travel_insurance = st.sidebar.checkbox("🛡️ Get Travel Insurance")
 currency_converter = st.sidebar.checkbox("💱 Currency Exchange Rates")
 
 # API Keys (only SerpApi and Google API needed)
-SERPAPI_KEY = "6c071a5b043eff030e365a84a86386d6a52bb6001f9458f7db1a67edcab06c25"
-GOOGLE_API_KEY = "AIzaSyBeXq4j8QxFz92wUIJ7i2lSkPlah-ndrpc"
+SERPAPI_KEY = "YOUR_SERPAPI_KEY"
+GOOGLE_API_KEY = "YOUR_GOOGLE_API_KEY"
 # SERPAPI_KEY = ""
 # GOOGLE_API_KEY = ""
 # Validate API keys
