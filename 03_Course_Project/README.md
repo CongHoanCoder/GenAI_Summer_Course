@@ -12,16 +12,16 @@ The **AI-Powered Travel Planner** is a Streamlit-based web application designed 
 - **Packing Checklist & Travel Essentials**: Includes a sidebar for managing travel essentials like visa requirements, travel insurance, and packing lists.
 
 
-<div style="align: center;">
+<div align="center">
   <img src="./assets/App.png" alt="Alt text" title="AI-Powered Travel Planner">
 </div>
-<div style="align: center;">
+<div align="center">
   <img src="./assets/Flight_and_Weather.png" alt="Alt text" title="Flight & Weather">
 </div>
-<div style="align: center;">
+<div align="center">
   <img src="./assets/Hotel_and_Restaurant.png" alt="Alt text" title="Hotel & Restaurent">
 </div>
-<div style="align: center;">
+<div align="center">
   <img src="./assets/Suggestion.png" alt="Alt text" title="Suggestion">
 </div>
 <!-- ![App](./assets/App.png "AI-Powered Travel Planner"){:.center-image}
