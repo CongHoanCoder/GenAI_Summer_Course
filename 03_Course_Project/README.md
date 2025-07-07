@@ -77,7 +77,7 @@ The **AI-Powered Travel Planner** is a Streamlit-based web application designed 
 
 ## Project Structure
 ```plaintext
-├── app.py                # Main Streamlit application script
+├── travelagent.py                # Main Streamlit application script
 ├── assets/               # Folder for weather icon SVG files
 ├── requirements.txt      # Python dependencies
 └── README.md             # This file
