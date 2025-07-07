@@ -11,6 +11,12 @@ The **AI-Powered Travel Planner** is a Streamlit-based web application designed 
 - **Interactive UI**: Offers a user-friendly interface with inputs for departure/destination IATA codes, travel dates, budget, and activity preferences.
 - **Packing Checklist & Travel Essentials**: Includes a sidebar for managing travel essentials like visa requirements, travel insurance, and packing lists.
 
+![App](./assets/App.png "AI-Powered Travel Planner")
+![App](./assets/Flight_and_Weather.png "Flight & Weather")
+![App](./assets/Hotel_and_Restaurant.png "Hotel & Restaurent")
+![App](./assets/Suggestion.png "Suggestion")
+
+
 ## Prerequisites
 - Python 3.8+
 - Streamlit
