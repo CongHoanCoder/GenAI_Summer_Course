@@ -93,7 +93,7 @@ print(f"Instruction: {sample_instruction}")
 print(f"Output: {generate_single_output(sample_instruction)}\n")
 
 # Load dataset for batch inference and BERTScore
-input_file = "lawyer_instruct_300_examples_1001_1300.json"
+input_file = "./data/lawyer_instruct_300_examples_1001_1300.json"
 try:
     with open(input_file, "r", encoding="utf-8") as f:
         data = json.load(f)
@@ -142,7 +142,7 @@ except Exception as e:
     exit(1)
 
 # Save BERTScore results
-output_file = "llama3_8b_finetuned_bertscore_zero_shot_results_with_300_examples.json"
+output_file = "./results/llama3_8b_finetuned_bertscore_zero_shot_results_with_300_examples.json"
 with open(output_file, "w", encoding="utf-8") as f:
     json.dump(bert_scores, f, indent=2)
 

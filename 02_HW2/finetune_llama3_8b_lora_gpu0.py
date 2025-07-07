@@ -28,7 +28,7 @@ except Exception as e:
     exit(1)
 
 # Load dataset
-input_file = "lawyer_instruct_1000_examples.json"
+input_file = "./data/lawyer_instruct_1000_examples.json"
 try:
     with open(input_file, "r", encoding="utf-8") as f:
         data = json.load(f)
